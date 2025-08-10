@@ -16,4 +16,5 @@ contract Second{
         courseName = course;
         isStudent = true;
     }
+
 }
